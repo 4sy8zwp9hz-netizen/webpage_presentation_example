@@ -1,0 +1,13 @@
+{
+  "resistance_rows": 345,
+  "resistance_focus_rows": 16,
+  "qualification_wafer_protocol_rows": 3527,
+  "qualification_unique_wafers": 2489,
+  "qualification_device_pairs": 160092,
+  "identifiers_replaced": true,
+  "calendar_dates_removed": true,
+  "positive_scaling_rank_parity": true,
+  "paired_ratio_aggregation_parity": true,
+  "raw_baseline_endpoint_measurements_published": false,
+  "actual_trends_preserved": true
+}
